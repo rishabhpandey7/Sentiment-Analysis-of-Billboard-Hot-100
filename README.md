@@ -1,7 +1,7 @@
-# Sentiment Analysis of Songs over 62 years 1958-2019 
+# Sentiment Analysis of Billboard Hot-100 over 62 years 1958-2019 
 
 ## Abstract
-###### The aim of this project is to perform sentiment analysis on representative samples of the most popular music from the past few decades to see if there was any significant change to the sentiment (positive or negative) in the language used in popular music lyrics over time. We analyzed the Billboard Hot 100 songs through each week in every year of our dataset using VADER (Valence Aware Dictionary for Sentiment Reasoning), and observed a trend of increasing negative sentiment and decreasing positive sentiment in song lyrics over the years.
+###### The aim of this project is to perform sentiment analysis on representative samples of the most popular music from the past few decades to see if there was any significant change to the sentiment (positive or negative) in the language used in popular music lyrics over time. We analyzed the Billboard Hot 100 songs through each week in every year of our dataset using VADER (Valence Aware Dictionary for Sentiment Reasoning), and observed a trend of increasing negative sentiment and decreasing positive sentiment in song lyrics over the years. This project was made as a final project for the class CS-490 Intro to NLP at UMass Amherst.
 
 ## Introduction
 ###### This study is an attempt to analyze how popular music has changed over the years. We all have heard from our elders or peers who are fond of older music from the 80s or 90s about how music lyrics have degraded over the years and the positivity that the songs from that timeline radiated simply isn’t prevalent in modern music. We hope to learn through our project exactly how much has sentiment in popular music changed (or not), and in what ways.
